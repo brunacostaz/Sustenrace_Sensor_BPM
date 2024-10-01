@@ -154,9 +154,22 @@ Existem duas visualizações dos dashboards: pelo node-red e pela aplicação we
 
 <img src=".github/executarGrafico.png" align=center max-width= 400px />
 
-<br><br>
+<br>
 
-* `🚧 em construção` Para visualizar pelo site da Sustenrace, basta clonar o repositório disponível no link a seguir (todo o passo a passo e dependências está no Readme): https://github.com/brunacostaz/Sustenrace 
+* `🚧 em construção` Para visualizar pelo site da Sustenrace, basta clonar o repositório disponível no link a seguir (todo o passo a passo e dependências está no Readme): https://github.com/brunacostaz/Sustenrace
+
+## 📞 Contato
+Para mais informações ou dúvidas, entre em contato:
+
+- [@brunacostaz](https://github.com/brunacostaz)
+
+- [@sofiafernandes857](https://github.com/sofiafernandes857)
+
+- [@AliAndrea1](https://github.com/AliAndrea1)
+
+- [@Laurasdc](https://github.com/Laurasdc)
+
+**💚 SustenRace: Emoção sem prejudicar o planeta.**
 
 
 
