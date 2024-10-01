@@ -1,5 +1,7 @@
 #  <img src=".github/logo-sustenrace.png" width= 80px align=center> Sustenrace 
 
+<br>
+
 A Sustenrace nasceu de uma parceria com a Mahindra, com o desafio de popularizar a Fórmula E através de uma aplicação web inovadora. Nossa missão é unir educação e tecnologia, oferecendo uma experiência interativa e envolvente que aproxima o público do universo dos carros elétricos, promovendo inovação e novas formas de aprendizado.
 
 Para concretizar esse objetivo, criamos uma plataforma interativa que conecta os entusiastas de automobilismo e corridas. Um dos destaques da nossa solução são os modelos 3D gamificados dos carros, que oferecem uma experiência imersiva e divertida para os usuários - para mais informações, consulte o repositório <a href="https://github.com/brunacostaz/Sustenrace">da aplicação web da Sustenrace</a>.
